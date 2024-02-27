@@ -31,7 +31,7 @@ class Heroi {
             this.ataque = "ATAQUE INVÁLIDO";
         }
 
-        // Saída -> ataque
+        // Saída: Ataque
         console.log(`O ${this.tipo} atacou usando ${this.ataque}`)
     }
 
